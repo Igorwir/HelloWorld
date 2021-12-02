@@ -4,5 +4,6 @@ public class Hello_World {
         System.out.println("Hello team !");
         Scanner sc = new Scanner(System.in);
         String samName = sc.nextLine();
+        System.out.println("samName");
     }
 }
